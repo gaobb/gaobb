@@ -1,8 +1,6 @@
 ### Hi 👋, I'm Bin-Bin
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaobb&show_icons=true&theme=radical" alt="Bin-Bin's github stats" /></a> |
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaobb&layout=compact&theme=radical" /></a>|
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaobb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaobb&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
 <!--
