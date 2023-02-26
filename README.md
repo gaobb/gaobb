@@ -1,8 +1,9 @@
 ### Hi 👋, I'm Bin-Bin
 
 
-![Bin-Bin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaobb&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaobb&show_icons=true&theme=radical)
+![Bin-Bin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaobb&show_icons=true&theme=radical)
+![Bin-Bin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaobb&show_icons=true&theme=radical)
+![Bin-Bin's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gaobb&theme=dracula)]
 
 <!--
 **gaobb/gaobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
