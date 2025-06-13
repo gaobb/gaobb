@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gaobb/AdaptCLIP,gaobb/MetaUAS,gaobb/OneNIP,gaobb/AnoGen,gaobb/DCFS,gaobb/MCAR&type=Date)](https://www.star-history.com/#gaobb/AdaptCLIP&gaobb/MetaUAS&gaobb/OneNIP&gaobb/AnoGen&gaobb/DCFS&gaobb/MCAR&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=gaobb/AdaptCLIP,gaobb/MetaUAS,gaobb/OneNIP,gaobb/AnoGen,gaobb/DCFS&type=Date)](https://www.star-history.com/#gaobb/AdaptCLIP&gaobb/MetaUAS&gaobb/OneNIP&gaobb/AnoGen&gaobb/DCFS&Date)
