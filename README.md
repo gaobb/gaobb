@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Date)](https://www.star-history.com/#star-history/star-history&Date)
