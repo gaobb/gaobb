@@ -1,8 +1,5 @@
 ### Hi 👋, I'm Bin-Bin
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaobb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaobb&layout=compact&theme=buefy&hide_border=true" /></a> 
-
 
 <!--
 **gaobb/gaobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +19,4 @@ Here are some ideas to get you started:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gaobb/AdaptCLIP,gaobb/MetaUAS,gaobb/OneNIP,gaobb/AnoGen,gaobb/DCFS&type=Date)](https://www.star-history.com/#gaobb/AdaptCLIP&gaobb/MetaUAS&gaobb/OneNIP&gaobb/AnoGen&gaobb/DCFS&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=gaobb/UniADet,gaobb/AdaptCLIP,gaobb/MetaUAS,gaobb/OneNIP,gaobb/AnoGen,gaobb/DCFS&type=Date)](https://www.star-history.com/#gaobb/UniADet&gaobb/AdaptCLIP&gaobb/MetaUAS&gaobb/OneNIP&gaobb/AnoGen&gaobb/DCFS&Date)
